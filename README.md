@@ -43,3 +43,15 @@ Libraries: Pandas, Matplotlib, Seaborn, OpenPyXL (for Excel)
 
 Visualization: Tableau (for Covid-19 Dashboard)
 
+## Quick Start
+
+1. Clone the repository
+git clone https://github.com/Neeharika-Bhupathi/data-science-mini-projects.git
+cd data-science-mini-projects
+2.Install dependencies
+pip install -r requirements.txt
+3.Run any project
+python project_name.py
+
+
+
